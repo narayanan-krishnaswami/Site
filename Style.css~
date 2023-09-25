@@ -1,0 +1,9 @@
+body,p{
+    margin: 20px;
+    font-family:'Alegreya', serif;
+    font-size: 12pt;
+}
+
+h1,h2,h3,h4{
+    font-family:Acme, sans-serif;
+}

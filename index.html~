@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <title>Narayanan - Home</title>
+    <meta name="Description" content="This is the personal homepage of K Narayanan" />
+    <meta name="KEYWORDS" content="Narayanan,Newspaper pieces,Programming,Links,Jottings, Books, Blog Posts" />
+    <style type="text/css">
+        body{
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div align="center">
+        <a href="index.html">
+            home
+        </a> |
+        <a href="writings.html">
+            writings - press
+        </a> |
+        <a href="blogposts.html">
+            blog posts
+        </a> |
+        <a href="links.html">
+            links
+        </a> |
+        <a href="quiz.html">
+            quizzes
+        </a>        
+        </a> |
+        <a href="bio.html"">
+            bio
+        </a> |
+        <a href=" contact.html"">
+            contact
+        </a>        
+    </div>
+<center>
+<h1>Welcome to Narayanan's Home Page</h1>
+</center>
+    <p>Hi. I'm K Narayanan, an occassional writer, coder, project manager, marketer, gamer, reader, quizzer and gamer.
+    </p>
+<p>I sometimes write for The Hindustan Times. A list of my pieces for the Hindustan Times can be found here. My last piece for them was on Transmedia Storytelling, and you can find it here </p>
+<p>There was also a time when I used to quiz - and I set a weekly quiz in the Sunday Times of India - Bangalore edition - for several years. You can find the quizzes here. </p>
+</body>
+</html>
