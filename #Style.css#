@@ -1,3 +1,6 @@
+@font-face{
+    
+}
 body,p{
     margin: 20px;
     font-family:'Alegreya', serif;
@@ -6,4 +9,8 @@ body,p{
 
 h1,h2,h3,h4{
     font-family:Acme, sans-serif;
+}
+
+.linkbar{
+    text-align:center;
 }

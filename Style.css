@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya&display=swap');
+
 body,p{
     margin: 20px;
-    font-family:'Alegreya', serif;
+    font-family:Alegreya, serif;
     font-size: 12pt;
 }
 
