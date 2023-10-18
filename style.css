@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya&display=swap');
+
+body,p{
+    margin: 20px;
+    font-family:Alegreya, serif;
+    font-size: 12pt;
+}
+
+h1,h2,h3,h4{
+    font-family:Acme, sans-serif;
+}
+
+.linkbar{
+    text-align:center;
+}
+
+.murder {
+    background-image: url('https://github.com/narayanan-krishnaswami/Site/images/blood.jpg')
+}
+
+.baldursgatemap {
+    border-image-outset: 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
